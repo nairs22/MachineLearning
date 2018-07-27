@@ -1,2 +1,2 @@
 # MachineLearning 
-This repository contains all my learnings in ML domain!
+This repository contains all my ML learnings!
